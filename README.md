@@ -30,9 +30,11 @@ Out of computer science.
 ## 🌱 I’m currently learning
 
 - Competitive programming techniques.
-- Object oriented programming.
-- Parallel algorithms.
+- Videogame creation.
+- Software engineering.
 - Quantum computing foundations.
+- Cloud computing foundations.
+- Frontend development.
 
 ## - 📫 How to reach me: 
 
