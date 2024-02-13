@@ -33,8 +33,6 @@ Out of computer science.
 - Videogame creation.
 - Software engineering.
 - Quantum computing foundations.
-- Cloud computing foundations.
-- Frontend development.
 
 ## - 📫 How to reach me: 
 
