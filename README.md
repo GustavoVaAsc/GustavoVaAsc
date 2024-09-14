@@ -12,7 +12,6 @@ Currently studying Computer Engineering at UNAM - Engineering School.
 - AI.
 - Quantum Computing.
 - Math.
-- Game theory.
 
 Out of computer science.
 
@@ -30,9 +29,9 @@ Out of computer science.
 ## 🌱 I’m currently learning
 
 - Competitive programming techniques.
-- Videogame creation.
-- Software engineering.
-- Quantum computing foundations.
+- Videogame development.
+- Web development
+- Digital design
 
 ## - 📫 How to reach me: 
 
