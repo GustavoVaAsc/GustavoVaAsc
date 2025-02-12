@@ -1,5 +1,9 @@
 ### Hi, I'm Gustavo Valenzuela👋
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gussstt0/)
+[![Outlook](https://img.shields.io/badge/Outlook-%230078D4.svg?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:zgus.tt0@outlook.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gusss_tt0)
+
 I am a mexican student of computer engineering, interested in multiple areas of computer science.
 
 Currently studying Computer Engineering at UNAM - Engineering School.
@@ -37,8 +41,6 @@ Out of computer science.
 
 Email: <zgus.tt0@hotmail.com>
 IG: @gusss_tt0
-
-## - ⚡ Fun fact: I left a party to attend a competitive programming conference.
 <!--
 **GustavoVaAsc/GustavoVaAsc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
