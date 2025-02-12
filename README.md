@@ -1,57 +1,42 @@
-### Hi, I'm Gustavo Valenzuela👋
+# Hi, I'm Gustavo Valenzuela 👋  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gussstt0/)
-[![Outlook](https://img.shields.io/badge/Outlook-%230078D4.svg?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:zgus.tt0@outlook.com)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gusss_tt0)
+🎓 Mexican **Computer Engineering** student at **UNAM - Engineering School**.  
+💡 Passionate about **problem-solving, technology, and innovation**.  
+🚀 Always eager to explore **new areas of Computer Science**.  
 
-I am a mexican student of computer engineering, interested in multiple areas of computer science.
+## 🔗 Connect with me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gussstt0/)  
+[![Outlook](https://img.shields.io/badge/Outlook-%230078D4.svg?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:zgus.tt0@outlook.com)  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gusss_tt0)  
 
-Currently studying Computer Engineering at UNAM - Engineering School.
+---
 
-## 🔭 I’m interested in
+## 🖥️ **Programming Languages**  
+<div>  
+  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"/>  
+  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>  
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>  
+  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>  
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>  
+</div>  
 
-- Software Engineering.
-- Data Science.
-- Competitive Programming.
-- AI.
-- Quantum Computing.
-- Math.
+---
 
-Out of computer science.
+## 🔭 **Interests**  
 
-- Soccer.
-- Basketball.
-- Fitness.
-- Videogames.
-- eSports.
-- Time traveling stories.
-- Graphic design.
-- Storytelling.
-- Music.
+### **💻 Computer Science & Engineering**  
+- 🏗 **Software Engineering**  
+- 📊 **Data Science & AI**  
+- 🏆 **Competitive Programming (ICPC Mexico Finalist 🎉)**  
+- ⚛ **Quantum Computing**  
+- 🔢 **Mathematics & Algorithms**  
 
+### **🎮 Beyond CS**  
+- ⚽ **Soccer & Basketball**  
+- 💪 **Fitness & eSports**  
+- 🎮 **Video Games & Game Development**  
+- 📖 **Time-Travel & Sci-Fi Stories**  
+- 🎨 **Graphic Design & Storytelling**  
+- 🎵 **Music**  
 
-## 🌱 I’m currently learning
-
-- Competitive programming techniques.
-- Videogame development.
-- Web development
-- Digital design
-
-## - 📫 How to reach me: 
-
-Email: <zgus.tt0@hotmail.com>
-IG: @gusss_tt0
-<!--
-**GustavoVaAsc/GustavoVaAsc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
