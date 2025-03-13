@@ -40,7 +40,7 @@
 - 🎵 **Music**  
 
 ## 🎧 **Mi rockola** 😈
-<p style="text-align:center;">[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31ncegtzghhjfmau3eo7fke7xwpe&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31ncegtzghhjfmau3eo7fke7xwpe&redirect=true)
+<p style="text-align:center;">![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31ncegtzghhjfmau3eo7fke7xwpe&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31ncegtzghhjfmau3eo7fke7xwpe&redirect=true)
 </p>
 
 ---
