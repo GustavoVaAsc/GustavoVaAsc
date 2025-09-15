@@ -29,7 +29,7 @@
 ### **💻 Computer Science & Engineering**  
 - 🏗 **Software Engineering**  
 - 📊 **Data Science & AI**  
-- 🏆 **Competitive Programming (ICPC Mexico Finalist 🎉)**  
+- 🏆 **Competitive Programming (2x ICPC Mexico Finalist 🎉)**  
 - ⚛ **Quantum Computing**  
 - 🔢 **Mathematics & Algorithms**  
 
