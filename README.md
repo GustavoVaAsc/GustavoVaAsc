@@ -21,7 +21,17 @@
   <img src="https://img.shields.io/badge/Kotlin-6C3BAA?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin"/>
 </div>
 
-
+## 🧰 **Tools**
+<div>
+  <img src="https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white" alt ="LaTeX"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/sqlserver-%23CC2927.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
+  <img src="https://img.shields.io/badge/OpenGL-%235586A4.svg?style=for-the-badge&logo=opengl&logoColor=white" alt="OpenGL"/>
+  <img src="https://img.shields.io/badge/Matplotlib-%2311557c.svg?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib"/>
+  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+</div>
 ---
 
 ## 🔭 **Interests**  
@@ -31,7 +41,7 @@
 - 📊 **Data Science & AI**  
 - 🏆 **Competitive Programming (2x ICPC Mexico Finalist 🎉)**  
 - ⚛ **Quantum Computing**  
-- 🔢 **Mathematics & Algorithms**  
+- 🔢 **Discrete Mathematics & Algorithms**  
 
 ### **🎮 Beyond CS**  
 - ⚽ **Soccer & Basketball**  
@@ -41,7 +51,14 @@
 - 🎨 **Drawing**  
 - 🎵 **Music (K-Pop, Pop, Latin urban genre)**  
 
-## **Currently learning**
+## 🤔 **Currently learning**
+
+- **Machine Learning**
+- **Quantum Computing**
+- **Distributed Systems**
+- **Next.js**
+- **Astro**
+- **Swift & Swift UI**
 
 ## 🎧 **Mi rockola** 😈
 <div align="center">
