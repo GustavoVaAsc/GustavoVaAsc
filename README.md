@@ -35,11 +35,13 @@
 
 ### **🎮 Beyond CS**  
 - ⚽ **Soccer & Basketball**  
-- 💪 **Fitness & eSports**  
-- 🎮 **Video Games & Game Development**  
-- 📖 **Time-Travel & Sci-Fi Stories**  
-- 🎨 **Graphic Design & Storytelling**  
-- 🎵 **Music**  
+- 💪 **Fitness (Gym and Calisthenics)**  
+- 🎮 **Video Games & eSports**  
+- 📖 **Sci-Fi Stories**  
+- 🎨 **Drawing**  
+- 🎵 **Music (K-Pop, Pop, Latin urban genre)**  
+
+## **Currently learning**
 
 ## 🎧 **Mi rockola** 😈
 <div align="center">
