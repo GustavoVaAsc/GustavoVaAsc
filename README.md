@@ -5,11 +5,17 @@
 🚀 Always eager to explore **new areas of Computer Science**.  
 
 ## 🔗 Connect with me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gussstt0/)  
-[![Outlook](https://img.shields.io/badge/Outlook-%230078D4.svg?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:zgus.tt0@outlook.com)  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gusss_tt0)  
-
----
+<div>
+  <a href="https://www.linkedin.com/in/gussstt0/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:zgus.tt0@outlook.com">
+    <img src="https://img.shields.io/badge/Outlook-%230078D4.svg?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook"/>
+  </a>
+  <a href="https://www.instagram.com/gusss_tt0">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</div>
 
 ## 🖥️ **Programming Languages**  
 <div>
@@ -32,24 +38,24 @@
   <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
 </div>
----
+
 
 ## 🔭 **Interests**  
 
 ### **💻 Computer Science & Engineering**  
-- 🏗 **Software Engineering**  
-- 📊 **Data Science & AI**  
-- 🏆 **Competitive Programming (2x ICPC Mexico Finalist 🎉)**  
-- ⚛ **Quantum Computing**  
-- 🔢 **Discrete Mathematics & Algorithms**  
+- **Software Engineering**  
+- **Data Science & AI**  
+- **Competitive Programming (2x ICPC Mexico Finalist 🎉)**  
+- **Quantum Computing**  
+- **Discrete Mathematics & Algorithms**  
 
 ### **🎮 Beyond CS**  
-- ⚽ **Soccer & Basketball**  
-- 💪 **Fitness (Gym and Calisthenics)**  
-- 🎮 **Video Games & eSports**  
-- 📖 **Sci-Fi Stories**  
-- 🎨 **Drawing**  
-- 🎵 **Music (K-Pop, Pop, Latin urban genre)**  
+- **Soccer & Basketball**  
+- **Fitness (Gym and Calisthenics)**  
+- **Video Games & eSports**  
+- **Sci-Fi Stories**  
+- **Drawing**  
+- **Music (K-Pop, Pop, Latin urban genre)**  
 
 ## 🤔 **Currently learning**
 
