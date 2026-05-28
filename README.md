@@ -62,9 +62,8 @@
 - **Machine Learning**
 - **Quantum Computing**
 - **Distributed Systems**
-- **Next.js**
-- **Astro**
-- **Swift & Swift UI**
+- **Cloud Computing**
+- **Embedded Systems**
 
 ## 🎧 **Mi rockola** 😈
 <div align="center">
