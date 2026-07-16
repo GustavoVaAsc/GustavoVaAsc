@@ -1,6 +1,7 @@
 # Hi, I'm Gustavo Valenzuela 👋  
 
 🎓 Mexican **Computer Engineering** student at **UNAM - Engineering School**.  
+💼 Currently a **Software Development Engineer Intern** at **Amazon — Payments** (Mexico City).  
 💡 Passionate about **problem-solving, technology, and innovation**.  
 🚀 Always eager to explore **new areas of Computer Science**.  
 
@@ -25,18 +26,36 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/Kotlin-6C3BAA?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin"/>
+  <img src="https://img.shields.io/badge/SQL-025E8C?style=flat-square&logo=postgresql&logoColor=white" alt="SQL"/>
 </div>
 
 ## 🧰 **Tools**
 <div>
-  <img src="https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white" alt ="LaTeX"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" alt="Streamlit"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/sqlserver-%23CC2927.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
-  <img src="https://img.shields.io/badge/OpenGL-%235586A4.svg?style=for-the-badge&logo=opengl&logoColor=white" alt="OpenGL"/>
-  <img src="https://img.shields.io/badge/Matplotlib-%2311557c.svg?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib"/>
+  <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white" alt="DynamoDB"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
   <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/Matplotlib-%2311557c.svg?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib"/>
+  <img src="https://img.shields.io/badge/llama.cpp-046A38?style=for-the-badge&logo=meta&logoColor=white" alt="llama.cpp"/>
+  <img src="https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white" alt ="LaTeX"/>
+  <img src="https://img.shields.io/badge/OpenGL-%235586A4.svg?style=for-the-badge&logo=opengl&logoColor=white" alt="OpenGL"/>
+</div>
+
+### **🤖 AI Coding Assistants**
+<div>
+  <img src="https://img.shields.io/badge/Opencode-0066CC?style=for-the-badge&logoColor=white" alt="Opencode"/>
+  <img src="https://img.shields.io/badge/Kiro-FF6B6B?style=for-the-badge&logoColor=white" alt="Kiro"/>
+  <img src="https://img.shields.io/badge/Hermes_Agent-7B61FF?style=for-the-badge&logoColor=white" alt="Hermes Agent"/>
 </div>
 
 
@@ -61,9 +80,9 @@
 
 - **Machine Learning**
 - **Quantum Computing**
-- **Distributed Systems**
-- **Cloud Computing**
 - **Embedded Systems**
+- **LLM Ops**
+- **Cloud Computing**
 
 ## 🎧 **Mi rockola** 😈
 <div align="center">
@@ -71,5 +90,3 @@
         <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ncegtzghhjfmau3eo7fke7xwpe&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true" alt="spotify-github-profile"/>
     </a>
 </div>
-
----
